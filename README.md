@@ -29,11 +29,11 @@ __she/her__
 
   ### Youtube Videos
 <!-- YOUTUBE:START -->
+- [5 Tips For Junior Developers Starting Their Career | Career Advice for Developers](https://www.youtube.com/watch?v=bkn66AkXy9s)
 - [My Career Change Into Programming](https://www.youtube.com/watch?v=5sIBRab9HBs)
 - [3 Great Things To Know About Credit And Credit Repair](https://www.youtube.com/watch?v=lL9Ir4XuEvM)
 - [Do I Need A CS degree?](https://www.youtube.com/watch?v=y8FUZtcq170)
 - [3 Things To Know About Credit](https://www.youtube.com/watch?v=N_H7p_yxdYg)
-- [6 Things I Learned Contributing To Open Source - 2020](https://www.youtube.com/watch?v=jQbHeB9RG8k)
 <!-- YOUTUBE:END -->
 
   ### Blog Posts
