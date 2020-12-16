@@ -29,7 +29,7 @@ __she/her__
 
   ### Youtube Videos
 <!-- YOUTUBE:START -->
-- [Tips For Dealing With Impostor Syndrome As A Developer](https://www.youtube.com/watch?v=q2zFkMEL_cM)
+- [Tips For Dealing With Imposter Syndrome As A Developer](https://www.youtube.com/watch?v=q2zFkMEL_cM)
 - [Tips On Giving Your First Talk From Reviewing My First Talk](https://www.youtube.com/watch?v=fPmzXMyS0fw)
 - [5 Tips For Junior Developers Starting Their Career](https://www.youtube.com/watch?v=bkn66AkXy9s)
 - [My Career Change Into Programming](https://www.youtube.com/watch?v=5sIBRab9HBs)
