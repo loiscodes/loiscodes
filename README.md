@@ -1,7 +1,7 @@
 
 
 
-[![Website](https://img.shields.io/website?label=Website&color=2A9D8F&labelColor=264653&style=flat-square&url=http%3A%2F%2Fwww.itsmelois.com)](http://www.itsmelois.com)
+[![Website](https://img.shields.io/website?label=Website&color=2A9D8F&labelColor=264653&style=flat-square&url=http%3A%2F%2Fitsmelois.com)](http://itsmelois.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/loiscodes?color=f4a261&labelColor=264653&logo=twitter&style=flat-square)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Floiscodes&screen_name=loiscodes)
 
 <p align="center">
